@@ -69,4 +69,9 @@ This is a backend-only prototype (no database, no authentication).
 Intended for evaluation purposes and easy integration with any frontend editor.
 Focus is on clarity and demonstrating real-time WebSocket handling.
 
+## Future Enhancements
+- Add user presence indicators (who is currently typing)
+- Add persistence layer to store room history
+- Add authentication for private rooms
+
 License: This project is created for technical evaluation purposes.
