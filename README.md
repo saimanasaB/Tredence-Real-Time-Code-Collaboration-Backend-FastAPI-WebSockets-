@@ -22,14 +22,15 @@ Requirements file included.
 Project Structure:
 backend/
 │── app/
-│   ├── main.py
-│   ├── websocket_manager.py
+│   │── main.py
+│   │── websocket_manager.py
 │   └── routers/
-│       ├── rooms.py
-│       └── autocomplete.py
+│        │── rooms.py
+│        └── autocomplete.py
 │
 ├── requirements.txt
 └── .gitignore
+
 
 API Endpoints
 1. Create Room
